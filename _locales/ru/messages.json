@@ -1,0 +1,54 @@
+{
+   "btnCountDollarTxt": {
+      "description": "Считает в рублях долларах",
+      "message": "Посчитать "
+   },
+   "btnCountRubTxt": {
+      "description": "Считает в рублях цены",
+      "message": "Посчитать Руб."
+   },
+   "btnEditFavouritesTxt": {
+      "description": "Редактировать избранное",
+      "message": "Редактировать избранное"
+   },
+   "btnEndBotTxt": {
+      "description": "Перестает выводить",
+      "message": "Остановить вывод"
+   },
+   "btnShowFavouritesTxt": {
+      "description": "Показывает Избранные",
+      "message": "Выбрать избранные"
+   },
+   "btnStartBotTxt": {
+      "description": "Начинает выводить",
+      "message": "Вывести вещи"
+   },
+   "errorOpskinsAntiBot": {
+      "description": "Ошибка, если опскинс не дает спарсить цены из-за защиты от ботов",
+      "message": "Ошибка: не получается спарсить цены. Зайдите на opskins.com и пройдите 5-ти секундную проверку на бота. После этого обновите страницу csgodouble.com."
+   },
+   "errorSelectItems": {
+      "description": "Выводит ошибку 'выберите предметы'",
+      "message": "Выберите предметы"
+   },
+   "optionAutoAcceptTrade": {
+      "description": "Автоматически принимать трейд",
+      "message": "Автопринятие трейда"
+   },
+   "optionAutoTryWithdraw": {
+      "description": "Пытаться снова вывести при неудаче",
+      "message": "Пытаться снова вывести при неудаче"
+   },
+   "optionShowBtnOpskins": {
+      "description": "Выводить кнопку OPSkins",
+      "message": "Выводить кнопку OPSkins"
+   },
+   "optionShowBtnOpskinsInsert": {
+      "description": "цена рядом с предметом",
+      "message": "цена рядом с предметом"
+   },
+   "optionShowBtnOpskinsWindow": {
+      "description": "открыть в новом окне",
+      "message": "открыть в новом окне"
+   }
+}

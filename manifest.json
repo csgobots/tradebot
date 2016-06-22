@@ -1,0 +1,27 @@
+{
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_popup": "popup.html",
+      "default_title": "Trade bot"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.js", "func.js", "inject.js" ],
+      "matches": [ "http://www.csgodouble.com/withdraw.php", "https://steamcommunity.com/tradeoffer/*", "https://steamcommunity.com/trade/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "Trade bot CSGODouble.com",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAje5aUjNZgD5FnCaMPgvW86595OJ+crhDngiVBNcyHKpCTo8aingZ75j/Yi1A0z67W2sl6snaIxQk24a16keCxfiZNb7IuENR9rgWoKkM+J7d0AUGZG8hpUd5TnvUjTAvSnaIr4b99hXPZUekvpCA86LreIuzP6A0hVXtVBv8yG+8eRruwNHDiwh6CPchbkejeg5DCEkKKHLIH5iIL0atjHQDSwCf8mWxqtnsjBXvBUQYQ1To7E5oDSUWGyHU/a9c1Ru7qeg5HW5ySRD7DDUDl+xBcXjnqCd10ZSfNdMmRm+TQ5nvxLzmUJ+tSAce1bIhlP/2ZJPzoHNge3kcnXTtPwIDAQAB",
+   "manifest_version": 2,
+   "name": "Trade bot CSGODouble",
+   "options_page": "options.html",
+   "permissions": [ "http://www.csgodouble.com/*", "https://opskins.com/*", "https://csgo.tm/*", "http://akgames.ru/*", "https://steamcommunity.com/tradeoffer/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.5",
+   "web_accessible_resources": [ "*.mp3", "*.js" ]
+}

@@ -1,0 +1,54 @@
+{
+   "btnCountDollarTxt": {
+      "description": "Count dollars",
+      "message": "Calculate "
+   },
+   "btnCountRubTxt": {
+      "description": "Count rubles",
+      "message": "Calculate Rub"
+   },
+   "btnEditFavouritesTxt": {
+      "description": "Edit Favourite",
+      "message": "Edit Favourites"
+   },
+   "btnEndBotTxt": {
+      "description": "Stom bot",
+      "message": "Stop "
+   },
+   "btnShowFavouritesTxt": {
+      "description": "Show Favourite",
+      "message": "Show Favourites"
+   },
+   "btnStartBotTxt": {
+      "description": "Start bot",
+      "message": "Withdraw"
+   },
+   "errorOpskinsAntiBot": {
+      "description": "Error, catched anti-bot system",
+      "message": "Error: Anti-bot system. Go to opskins.com and await 5 seconds. After reload this page"
+   },
+   "errorSelectItems": {
+      "description": "show error",
+      "message": "Select items"
+   },
+   "optionAutoAcceptTrade": {
+      "description": "Auto Accept Trade",
+      "message": "Auto Accept Trade"
+   },
+   "optionAutoTryWithdraw": {
+      "description": "Try Withdraw after fail",
+      "message": "Try Withdraw after fail"
+   },
+   "optionShowBtnOpskins": {
+      "description": "Show Button OPSkins",
+      "message": "Show Button OPSkins"
+   },
+   "optionShowBtnOpskinsInsert": {
+      "description": "insert to item",
+      "message": "insert to item"
+   },
+   "optionShowBtnOpskinsWindow": {
+      "description": "open new window",
+      "message": "open new window"
+   }
+}
